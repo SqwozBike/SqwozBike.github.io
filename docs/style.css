@@ -21,7 +21,7 @@ body {
 }
 @font-face {
   font-family: 'jetbrainsmonoextralight';
-  src: url('/font/jetbrainsmonoextralight.ttf') format('truetype');
+  src: url('jetbrainsmonoextralight.ttf') format('truetype');
 }
 .keyboard button {
   background-color: rgb(13 27 22);
